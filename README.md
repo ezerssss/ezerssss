@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ezra</h1>
-<h3 align="center">An aspiring software developer based in the Philippines</h3>
+<h3 align="center">A software developer based in the Philippines</h3>
 
 
 - 🌱 I’m currently learning **Game Development in Unity**
