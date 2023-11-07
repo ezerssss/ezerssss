@@ -2,7 +2,7 @@
 <h3 align="center">A software developer based in the Philippines</h3>
 
 
-- 🌱 I’m currently learning **Game Development in Unity**
+- 🌱 I’m currently learning **integrals and other school stuff**
 
 - 👨‍💻 All of my projects are available at [http://ezramagbanua.com/](http://ezramagbanua.com/)
 
