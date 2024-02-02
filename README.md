@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **magbanuaezra@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1BmhyXlQTyhWMyYB4c2lm4_wwb1CyLzQf/view?usp=drive_link](https://drive.google.com/file/d/1BmhyXlQTyhWMyYB4c2lm4_wwb1CyLzQf/view?usp=drive_link)
+- 📄 Know about my [experiences](https://drive.google.com/file/d/1BmhyXlQTyhWMyYB4c2lm4_wwb1CyLzQf/view?usp=drive_link)
 
 - ⚡ Fun fact **I don't eat rice**
 
