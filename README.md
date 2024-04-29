@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ezerssss&label=Visitors&color=ea3434&style=flat" alt="ezerssss" /> </p>
 
-- 🔭 I’m currently working on **SortThemAll**
+- 🔭 I’m currently working on **komshat**
 
 - 🌱 I’m currently learning **Rust**
 
