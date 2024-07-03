@@ -1,4 +1,5 @@
-<h3 class="center">Trying to go bare metal (ˉ﹃ˉ)</h3>
+<h1 align="center">Trying to go to bare metal ☜(ﾟヮﾟ☜)</h3>
+![ideal](https://github.com/ezerssss/ezerssss/assets/72904036/8f4eef81-864e-4181-abaa-de553f22db6c)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ezra-magbanua-a342b1239) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@magbanuaezra) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/ezra-magbanua) 
